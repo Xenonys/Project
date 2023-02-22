@@ -1,6 +1,6 @@
 ## Super Mario Bros
 
-2D Platformer hra na styl Super Mario Bros
+2D Platformer hra na styl Super Mario Bros s několika levely a různými nepřáteli
 ## Technologie
 pomocí Unity/časovou náročnost netuším, protože je to poprvé co něco takového budu zkoušet
 
